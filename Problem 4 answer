@@ -1,9 +1,6 @@
 Write a command to find the sum of the amount field in the below file
-
 cut -c 25-42 'Sample file.txt' | awk '{sum+=$1} END{print sum}'
 
 
-
 show a split between transactions during 15:00 hrs, 16:00 hrs and 17:00 hrs.
-
 sort -n -k1.60,1.61 -k1.63,1.64, -k1.66,1.67 'Sample file.txt'
