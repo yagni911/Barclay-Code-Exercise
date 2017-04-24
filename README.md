@@ -71,7 +71,7 @@ EBS 1/3 OK
 
 Output:
 
-Press Ctrl+Z anytime to terminate the program.
+Press Ctrl+Z to terminate the execution of script.
 
 Enter the time interval in minutes to check server status: 5
 
